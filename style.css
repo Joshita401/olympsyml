@@ -1,0 +1,14 @@
+.body_backgorund{
+    background-image: url("galaxy.jpg");
+    background-position: center;
+    background-size: cover;
+    }
+    h1{
+        color: rgb(255, 255, 255);
+        font-size: 30px;
+    }
+    #myCanvas{
+        border-width: 15px;
+        background-color: rgb(255, 255, 255);
+        border-style:dotted;
+    }
